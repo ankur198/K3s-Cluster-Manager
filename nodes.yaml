@@ -1,0 +1,21 @@
+master:
+  - ip: 192.168.1.134
+    username: ankur
+    password: asd
+
+  - ip: 192.168.1.225
+    username: ankur
+    password: asd
+
+  - ip: 192.168.1.177
+    username: ankur
+    password: asd
+
+worker:
+  - ip: 192.168.1.214
+    username: ankur
+    password: asd
+
+  - ip: 192.168.1.103
+    username: ankur
+    password: asd
