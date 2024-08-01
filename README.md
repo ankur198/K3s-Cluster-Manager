@@ -16,11 +16,6 @@ To install the K3s cluster, run the following command:
 
 `python main.py install`
 
-### Uninstallation
-To uninstall the K3s cluster, run the following command:
-
-`python main.py uninstall`
-
 ### Execute Commands
 To execute a command on the K3s cluster, run the following command:
 
@@ -30,7 +25,24 @@ Example: `python main.py execute "get nodes -o wide"`
 
 Replace <command> with the command you want to run.
 
-![image](https://github.com/user-attachments/assets/a232f0a8-d567-43d7-992a-9daf4369cfbc)
+### Uninstallation
+To uninstall the K3s cluster, run the following command:
+
+`python main.py uninstall`
+
+### Screenshots
+
+- **Install**
+
+    ![image](https://github.com/user-attachments/assets/8946c01c-fb12-4c33-b9c0-1ed0e22c977d)
+
+- **Execute**
+
+    ![image](https://github.com/user-attachments/assets/a232f0a8-d567-43d7-992a-9daf4369cfbc)
+
+- **Uninstall**
+
+    ![image](https://github.com/user-attachments/assets/5485b262-5235-498c-af1b-085fe63b4858)
 
 
 ## License
