@@ -29,4 +29,4 @@ To execute a command on the K3s cluster, run the following command:
 Replace <command> with the command you want to run.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the Apache 2.0 License. See the LICENSE file for details.
