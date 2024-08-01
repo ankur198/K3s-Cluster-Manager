@@ -26,6 +26,8 @@ To execute a command on the K3s cluster, run the following command:
 
 `python main.py execute <command>`
 
+Example: `python main.py execute "get nodes -o wide"`
+
 Replace <command> with the command you want to run.
 
 ## License
