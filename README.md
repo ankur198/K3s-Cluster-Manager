@@ -30,5 +30,8 @@ Example: `python main.py execute "get nodes -o wide"`
 
 Replace <command> with the command you want to run.
 
+![image](https://github.com/user-attachments/assets/a232f0a8-d567-43d7-992a-9daf4369cfbc)
+
+
 ## License
 This project is licensed under the Apache 2.0 License. See the LICENSE file for details.
